@@ -7,8 +7,7 @@ Sean Rehaag
 13 February 2026 (updated 21 Feburary 2026)
 
 
-Due to concerns related to security (e.g. zoom links, course times and locations) outlines and descriptions are not included in this repo. However, they are available on MyOsgoode via Passport York (and in the case of descriptions
-can be downloaded via the scrape_osgoode.py script)
+Due to concerns related to security (e.g. zoom links, course times and locations) outlines and descriptions are not included in this repo. However, they are available on MyOsgoode via Passport York (and via scraping scripts in this repo)
 
 
 For analysis of course outlines see: ai_policies.ipynb

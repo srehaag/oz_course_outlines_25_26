@@ -1,3 +1,4 @@
 .env
 DATA/
 __pycache__/
+testing.ipynb
